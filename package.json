@@ -3,10 +3,10 @@
 	"version": "0.0.1",
 	"private": true,
 	"scripts": {
-		"postinstall": "npm install vite@4.1.2"
-	},
-	"scripts": {
-		"postinstall": "npm install vite@4.1.2"
+		"postinstall": "npm install vite@4.1.2",
+		"dev": "svelte-kit dev",
+		"build": "svelte-kit build",
+		"start": "svelte-kit start"
 	},
 	"devDependencies": {
 		"@sveltejs/adapter-auto": "next",
