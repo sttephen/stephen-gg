@@ -1,8 +1,6 @@
 <script>
     import "../app.css";
     import Navbar from "../components/Navbar.svelte";
-
-
 </script>
 
 <div class="bg-[#19191c] h-full min-h-[100vh] max-h-[100vh]">
