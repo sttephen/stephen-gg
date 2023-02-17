@@ -4,9 +4,9 @@
 	"private": true,
 	"scripts": {
 		"postinstall": "npm install vite@4.1.2",
-		"dev": "svelte-kit dev",
-		"build": "svelte-kit build",
-		"start": "svelte-kit start"
+		"dev": "vite dev",
+		"build": "vite build",
+		"preview": "vite preview"
 	},
 	"devDependencies": {
 		"@sveltejs/adapter-auto": "next",
