@@ -3,14 +3,10 @@
 	"version": "0.0.1",
 	"private": true,
 	"scripts": {
-		"dev": "vite dev",
-		"build": "vite build",
-		"preview": "vite preview"
+		"postinstall": "npm install vite@4.1.2"
 	},
-	"dependencies": {
-		"@sveltejs/kit": "^1.7.1",
-		"@sveltejs/adapter-cloudflare": "^2.0.2",
-		"vite": "4.1.2"
+	"scripts": {
+		"postinstall": "npm install vite@4.1.2"
 	},
 	"devDependencies": {
 		"@sveltejs/adapter-auto": "next",
