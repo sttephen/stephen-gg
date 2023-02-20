@@ -19,11 +19,11 @@
             <p class="text-[#A9A9BF] text-[20px] pb-2">Leading my company to make cool things.</p>
             <div class="flex gap-2">
                 <img src="/img/cloud.png" class="h-5 self-center">
-                <p class="text-[#A9A9BF] text-[20px]">Soon working at <b>Microsoft</b> as a <b>Cloud Architect</b>.</p>
+                <p class="text-[#A9A9BF] text-[20px]">Previously worked at <b>Microsoft</b>.</p>
             </div>
             <div class="flex gap-2">
                 <img src="/img/hat.png" class="self-center h-5">
-                <p class="text-[#A9A9BF] text-[20px]">Graduating with degree in <b>International Business Management</b>.</p>
+                <p class="text-[#A9A9BF] text-[20px]">Degree in <b>International Business Management</b>.</p>
             </div>
         </div>
         <div class="flex-col self-center lg:w-[40vw] md:w-[50vw] sm:w-[80vw] mx-5 gap-4 flex">
