@@ -37,7 +37,7 @@
                 </a>
             </div>
         </div>
-        <div class="text-[13px] text-[#A9A9BF] self-center max-sm:pb-5">© Virtual Ventures Ltd. All Rights Reserved.</div>
+        <div class="text-[13px] text-[#A9A9BF] self-center max-sm:pb-5">© Flyte Labs Ltd. All Rights Reserved.</div>
     </div>
 </div>
 
