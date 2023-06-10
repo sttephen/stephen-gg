@@ -3,10 +3,10 @@
     import Navbar from "../components/Navbar.svelte";
     import {Button, Tooltip} from 'flowbite-svelte';
 
-    let tooltip = "stephen#1234";
+    let tooltip = "stephen.gg";
     function tooltipClick() {
         tooltip = "discord copied";
-        navigator.clipboard.writeText("stephen#1234")
+        navigator.clipboard.writeText("stephen.gg")
     }
 </script>
 
