@@ -31,7 +31,7 @@
             <p class="text-[#A9A9BF] text-[20px]">For business enquiries, reach me at <a class="hover:brightness-125 underline decoration-dotted transition duration-110 ease-in-out" href="mailto:hello@stephen.gg">hello@stephen.gg</a>.</p>
             <div class="flex gap-7">
                 <Tooltip class="bg-[#161619]" arrow={true} placement="bottom" triggeredBy="#hover">{tooltip}</Tooltip>
-                <Button on:mouseleave={tooltip="stephen#1234"} on:click={tooltipClick} id="hover" class="cursor-pointer hover:brightness-125 transition duration-110 ease-in-out"><img id="click" src="/img/discord.png" class="h-14 hover:brightness-125"></Button>
+                <Button on:mouseleave={tooltip="stephen.gg"} on:click={tooltipClick} id="hover" class="cursor-pointer hover:brightness-125 transition duration-110 ease-in-out"><img id="click" src="/img/discord.png" class="h-14 hover:brightness-125"></Button>
                 <a href="https://github.com/sttephen/" target="_blank" class="hover:brightness-125 transition duration-110 ease-in-out">
                     <img src="/img/github.png" class="h-14">
                 </a>
